@@ -1,39 +1,51 @@
-# 👋 Hey, I'm Nithish Gowda
 
-## 🚀 Cybersecurity | AI | IoT | Full Stack Developer
+<h1 align="center">Hey 👋, I'm Nithish Gowda</h1>
 
-🔐 Passionate about:
-- Cybersecurity
-- AI-integrated Security Systems
+<h3 align="center">
+Cybersecurity Developer • AI Security Builder • DevSecOps Enthusiast
+</h3>
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM0dnlzdWcyNmJyZm16eXdtYW9qaXNzNGtuazQ0cGdlNWc5Ym02YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hun4DFmfnDId3lid5b/giphy.gif" width="70%"/>
+</p>
+
+## 🚀 About Me
+
+🔐 Passionate about building:
+- AI-powered Security Systems
+- Web Vulnerability Scanners
 - IoT + Machine Learning Projects
-- Web Security
-- Ethical Hacking
-- Python Development
+- Backend Security Tools
+- Automation & DevSecOps Workflows
+- Linux-Based Security Environments
+
+💡 Focused on cybersecurity engineering, infrastructure systems, and intelligent security automation.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### Languages
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-### Web Development
+### 🌐 Web Development
 ![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 
-### Cybersecurity
-![Kali-Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=kalilinux)
-![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
-![Metasploit](https://img.shields.io/badge/Metasploit-darkblue?style=for-the-badge)
+### 🔐 Cybersecurity & DevOps
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
 # 🔥 Featured Projects
-
 
 ### 🛡️ SecureScan Pro
 AI-powered website security scanner designed to identify vulnerabilities, weak configurations, and potential security threats in web applications.
@@ -75,7 +87,7 @@ Python • Backend Development • APIs
 
 ---
 
-### 🐧 Linux System Administration Repository
+### 🐧 Linux System Administration
 Practical Linux and Unix administration workflows, configurations, and system management concepts.
 
 **Tech Stack:**  
@@ -83,28 +95,32 @@ Linux • Unix • Shell • System Administration
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NithishSGowda&show_icons=true&theme=tokyonight" height="180em"/>
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NithishSGowda&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.instagram.com/nithish___gowda.20" target="blank">
-<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<p align="center">
+<a href="https://www.instagram.com/nithish____gowda.20" target="blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/nithish-s-gowda-134b12329" target="blank">
-<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/NithishSGowda/NithishSGowda/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
