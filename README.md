@@ -35,6 +35,52 @@
 # 🔥 Featured Projects
 
 
+### 🛡️ SecureScan Pro
+AI-powered website security scanner designed to identify vulnerabilities, weak configurations, and potential security threats in web applications.
+
+**Tech Stack:**  
+Python • HTML • Cybersecurity • AI Integration
+
+---
+
+### 🤖 AI Security Copilot
+Intelligent security assistant built to automate cybersecurity analysis and improve threat investigation workflows.
+
+**Tech Stack:**  
+Python • AI • Security Automation
+
+---
+
+### ⚔️ Cerberus Scanner
+Python-based security scanning framework focused on vulnerability assessment and reconnaissance workflows.
+
+**Tech Stack:**  
+Python • Vulnerability Scanning • Security Testing
+
+---
+
+### 🔐 Security Toolkit
+Collection of Python-based cybersecurity utilities for security testing, automation, and beginner security operations.
+
+**Tech Stack:**  
+Python • Security Utilities • Automation
+
+---
+
+### 🌐 Hacker Hub Backend
+Backend infrastructure project focused on secure API handling and scalable application architecture.
+
+**Tech Stack:**  
+Python • Backend Development • APIs
+
+---
+
+### 🐧 Linux System Administration Repository
+Practical Linux and Unix administration workflows, configurations, and system management concepts.
+
+**Tech Stack:**  
+Linux • Unix • Shell • System Administration
+
 ---
 
 ## 📊 GitHub Stats
