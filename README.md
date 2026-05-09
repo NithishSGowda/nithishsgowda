@@ -93,9 +93,15 @@ Linux • Unix • Shell • System Administration
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+<p align="left">
+<a href="https://www.instagram.com/nithish___gowda.20" target="blank">
+<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](YOUR_INSTAGRAM)
+<a href="https://www.linkedin.com/in/nithish-s-gowda-134b12329" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
 
 ---
 
