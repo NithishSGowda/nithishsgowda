@@ -3,14 +3,22 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
-
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
       - uses: Platane/snk@v3
         with:
           github_user_name: NithishSGowda
@@ -21,5 +29,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          committer_name: github-actions[bot]
+          committer_email: github-actions[bot]@users.noreply.github.com
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
