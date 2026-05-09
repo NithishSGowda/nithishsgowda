@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Nithish Gowda</h1>
+<h1 align="center">Hey 👋, I'm Nithish S Gowda</h1>
 
 <h3 align="center">
 Cybersecurity Developer • AI Security Builder • DevSecOps Enthusiast
