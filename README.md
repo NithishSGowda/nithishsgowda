@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey 👋, I'm Nithish Gowda</h1>
 
 <h3 align="center">
@@ -6,25 +5,36 @@ Cybersecurity Developer • AI Security Builder • DevSecOps Enthusiast
 </h3>
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM0dnlzdWcyNmJyZm16eXdtYW9qaXNzNGtuazQ0cGdlNWc5Ym02YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hun4DFmfnDId3lid5b/giphy.gif" width="70%"/>
-</p>
 
-## 🚀 About Me
-
-🔐 Passionate about building:
-- AI-powered Security Systems
-- Web Vulnerability Scanners
-- IoT + Machine Learning Projects
-- Backend Security Tools
-- Automation & DevSecOps Workflows
-- Linux-Based Security Environments
-
-💡 Focused on cybersecurity engineering, infrastructure systems, and intelligent security automation.
+- 🔐 Interested in Cybersecurity, AI Security & Infrastructure Systems
+- 🤖 Building AI-powered security tools and automation systems
+- 🌱 Currently learning DevSecOps, Linux Security & Backend Engineering
+- ⚡ Exploring IoT + Machine Learning integration projects
+- 🚀 Focused on real-world security engineering and system design
 
 ---
 
-## ⚡ Tech Stack
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.instagram.com/nithish____gowda.20" target="blank">
+<img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/nithish-s-gowda-134b12329" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTM0dnlzdWcyNmJyZm16eXdtYW9qaXNzNGtuazQ0cGdlNWc5Ym02YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hun4DFmfnDId3lid5b/giphy.gif" width="80%"/>
+</p>
+
+---
+
+# ⚡ Technologies & Tools
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -42,6 +52,16 @@ Cybersecurity Developer • AI Security Builder • DevSecOps Enthusiast
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NithishSGowda&show_icons=true&theme=tokyonight" height="180em"/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NithishSGowda&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
 ---
 
@@ -95,31 +115,7 @@ Linux • Unix • Shell • System Administration
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NithishSGowda&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NithishSGowda&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.instagram.com/nithish____gowda.20" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/nithish-s-gowda-134b12329" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</p>
-
----
-
-## 🐍 Contribution Graph
+# 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/NithishSGowda/NithishSGowda/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
